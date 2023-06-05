@@ -1,4 +1,6 @@
 
+一個很好的參考專案，根據現實世界需求而做的
+
 ![kitchencounter_logo](images/kc+_logo.png) 
 # KitchenCounter+
 This was the final capstone project at WGU. Although I learned quite a bit during the 
